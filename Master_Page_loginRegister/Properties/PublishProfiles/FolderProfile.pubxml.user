@@ -1,0 +1,605 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\HTML\JOB</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="about212.png">
+      <publishTime>08/22/2023 14:22:54</publishTime>
+    </File>
+    <File Include="About_Contact/About.Master">
+      <publishTime>08/22/2023 14:19:43</publishTime>
+    </File>
+    <File Include="About_Contact/about212.png">
+      <publishTime>08/22/2023 14:22:34</publishTime>
+    </File>
+    <File Include="About_Contact/AboutRecruiter.aspx">
+      <publishTime>09/01/2023 22:43:24</publishTime>
+    </File>
+    <File Include="About_Contact/AboutWebPage.aspx">
+      <publishTime>09/01/2023 22:42:18</publishTime>
+    </File>
+    <File Include="About_Contact/abt.png">
+      <publishTime>08/22/2023 14:24:19</publishTime>
+    </File>
+    <File Include="About_Contact/ai.png">
+      <publishTime>08/27/2023 16:02:15</publishTime>
+    </File>
+    <File Include="About_Contact/apple.png">
+      <publishTime>08/22/2023 23:24:51</publishTime>
+    </File>
+    <File Include="About_Contact/aspdotnet.png">
+      <publishTime>08/27/2023 16:05:07</publishTime>
+    </File>
+    <File Include="About_Contact/backend.png">
+      <publishTime>08/27/2023 15:54:58</publishTime>
+    </File>
+    <File Include="About_Contact/cart.png">
+      <publishTime>08/22/2023 14:24:19</publishTime>
+    </File>
+    <File Include="About_Contact/cloud.png">
+      <publishTime>08/27/2023 16:10:40</publishTime>
+    </File>
+    <File Include="About_Contact/Contact.Master">
+      <publishTime>08/22/2023 23:30:11</publishTime>
+    </File>
+    <File Include="About_Contact/ContactRecruiter.aspx">
+      <publishTime>09/01/2023 15:17:00</publishTime>
+    </File>
+    <File Include="About_Contact/ContactWebpage.aspx">
+      <publishTime>09/01/2023 15:14:45</publishTime>
+    </File>
+    <File Include="About_Contact/contct.png">
+      <publishTime>08/22/2023 23:36:34</publishTime>
+    </File>
+    <File Include="About_Contact/datasci.png">
+      <publishTime>08/27/2023 16:01:17</publishTime>
+    </File>
+    <File Include="About_Contact/digital.png">
+      <publishTime>08/27/2023 16:12:44</publishTime>
+    </File>
+    <File Include="About_Contact/foodimg.png.jpg">
+      <publishTime>08/22/2023 14:24:19</publishTime>
+    </File>
+    <File Include="About_Contact/frontend.png">
+      <publishTime>08/27/2023 15:51:29</publishTime>
+    </File>
+    <File Include="About_Contact/hiring.png">
+      <publishTime>08/27/2023 17:28:59</publishTime>
+    </File>
+    <File Include="About_Contact/hppySELL.png.jpg">
+      <publishTime>08/22/2023 14:24:19</publishTime>
+    </File>
+    <File Include="About_Contact/lookingforjob.png">
+      <publishTime>08/27/2023 17:26:16</publishTime>
+    </File>
+    <File Include="About_Contact/machine.png">
+      <publishTime>08/27/2023 16:08:40</publishTime>
+    </File>
+    <File Include="About_Contact/money.png.jpg">
+      <publishTime>08/22/2023 14:24:19</publishTime>
+    </File>
+    <File Include="About_Contact/peop.png">
+      <publishTime>08/23/2023 15:02:47</publishTime>
+    </File>
+    <File Include="About_Contact/people.png">
+      <publishTime>08/23/2023 15:02:47</publishTime>
+    </File>
+    <File Include="About_Contact/peopp.png">
+      <publishTime>08/23/2023 15:02:47</publishTime>
+    </File>
+    <File Include="About_Contact/promtn.png">
+      <publishTime>08/22/2023 14:25:16</publishTime>
+    </File>
+    <File Include="About_Contact/seachprex5.png.jpg">
+      <publishTime>08/26/2023 13:46:21</publishTime>
+    </File>
+    <File Include="About_Contact/search.png">
+      <publishTime>08/26/2023 14:00:29</publishTime>
+    </File>
+    <File Include="About_Contact/search2.png">
+      <publishTime>08/26/2023 13:07:51</publishTime>
+    </File>
+    <File Include="About_Contact/search3.png">
+      <publishTime>08/26/2023 13:23:29</publishTime>
+    </File>
+    <File Include="About_Contact/search4.png">
+      <publishTime>08/26/2023 13:50:27</publishTime>
+    </File>
+    <File Include="About_Contact/searchlocation.js">
+      <publishTime>08/27/2023 16:36:26</publishTime>
+    </File>
+    <File Include="About_Contact/SearchLocation_2.aspx">
+      <publishTime>08/27/2023 22:06:12</publishTime>
+    </File>
+    <File Include="About_Contact/searchLOcation_2Master.Master">
+      <publishTime>08/27/2023 16:30:05</publishTime>
+    </File>
+    <File Include="About_Contact/searchlocsation.css">
+      <publishTime>08/27/2023 16:58:29</publishTime>
+    </File>
+    <File Include="About_Contact/searchprex.png.jpg">
+      <publishTime>08/26/2023 13:35:47</publishTime>
+    </File>
+    <File Include="About_Contact/searchprex2.png.jpg">
+      <publishTime>08/26/2023 13:35:47</publishTime>
+    </File>
+    <File Include="About_Contact/searchprex3.png">
+      <publishTime>08/26/2023 13:44:57</publishTime>
+    </File>
+    <File Include="About_Contact/shipp.png">
+      <publishTime>08/22/2023 14:24:19</publishTime>
+    </File>
+    <File Include="About_Contact/STORE.PNG">
+      <publishTime>08/22/2023 23:24:51</publishTime>
+    </File>
+    <File Include="About_Contact/suppot.png">
+      <publishTime>08/22/2023 14:25:16</publishTime>
+    </File>
+    <File Include="ADMIN/Admin.Master">
+      <publishTime>08/10/2023 14:04:39</publishTime>
+    </File>
+    <File Include="ADMIN/changepasswordAdmin.aspx">
+      <publishTime>07/28/2023 15:27:30</publishTime>
+    </File>
+    <File Include="ADMIN/HomeAdmin.aspx">
+      <publishTime>07/28/2023 12:38:08</publishTime>
+    </File>
+    <File Include="ADMIN/LogooutAdmin.aspx">
+      <publishTime>07/26/2023 01:04:28</publishTime>
+    </File>
+    <File Include="ADMIN/managecountrystate.aspx">
+      <publishTime>08/06/2023 15:33:53</publishTime>
+    </File>
+    <File Include="ADMIN/ManageCountry_State_Cityy.aspx">
+      <publishTime>08/17/2023 21:27:35</publishTime>
+    </File>
+    <File Include="ADMIN/manageJobbPost.aspx">
+      <publishTime>08/04/2023 11:43:09</publishTime>
+    </File>
+    <File Include="ADMIN/ManageJobLocationaspx.aspx">
+      <publishTime>08/05/2023 22:34:52</publishTime>
+    </File>
+    <File Include="ADMIN/ManageJobprofile.aspx">
+      <publishTime>08/05/2023 22:50:10</publishTime>
+    </File>
+    <File Include="ADMIN/managejobqualification.aspx">
+      <publishTime>08/06/2023 20:13:01</publishTime>
+    </File>
+    <File Include="ADMIN/ManageJobRecuiter.aspx">
+      <publishTime>07/29/2023 23:39:06</publishTime>
+    </File>
+    <File Include="ADMIN/ManageJobSeeker.aspx">
+      <publishTime>08/14/2023 15:34:09</publishTime>
+    </File>
+    <File Include="ADMIN/ManageSKills.aspx">
+      <publishTime>08/10/2023 14:13:09</publishTime>
+    </File>
+    <File Include="ADMIN/manageState.aspx">
+      <publishTime>08/10/2023 14:12:30</publishTime>
+    </File>
+    <File Include="apple.png">
+      <publishTime>08/21/2023 21:19:21</publishTime>
+    </File>
+    <File Include="banner.png">
+      <publishTime>08/23/2023 17:08:51</publishTime>
+    </File>
+    <File Include="bansim.png">
+      <publishTime>07/19/2023 22:58:12</publishTime>
+    </File>
+    <File Include="bin/AjaxControlToolkit.dll">
+      <publishTime>05/20/2020 19:34:00</publishTime>
+    </File>
+    <File Include="bin/Master_Page_loginRegister.dll">
+      <publishTime>09/01/2023 23:54:06</publishTime>
+    </File>
+    <File Include="bin/Master_Page_loginRegister.pdb">
+      <publishTime>09/01/2023 23:54:06</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>09/05/2018 16:10:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>08/08/2018 12:18:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>08/08/2018 12:18:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>08/08/2018 12:09:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>12/05/2017 09:36:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>12/05/2017 09:36:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Managed.Core.targets">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Win32.Primitives.dll">
+      <publishTime>11/05/2016 18:55:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>11/05/2016 18:55:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>05/16/2018 03:29:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Console.dll">
+      <publishTime>11/05/2016 18:55:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>11/05/2016 18:55:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>11/05/2016 18:55:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>11/05/2016 18:55:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Globalization.Calendars.dll">
+      <publishTime>11/05/2016 18:56:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.dll">
+      <publishTime>11/05/2016 18:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.ZipFile.dll">
+      <publishTime>11/05/2016 18:56:04</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>11/05/2016 18:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>11/05/2016 18:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Net.Http.dll">
+      <publishTime>11/05/2016 18:56:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Net.Sockets.dll">
+      <publishTime>11/05/2016 18:56:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>05/16/2018 03:29:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll">
+      <publishTime>11/05/2016 18:57:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>11/05/2016 18:57:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Encoding.dll">
+      <publishTime>11/05/2016 18:57:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Primitives.dll">
+      <publishTime>11/05/2016 18:57:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>11/05/2016 18:57:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>11/05/2016 18:57:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Threading.Tasks.Extensions.dll">
+      <publishTime>11/05/2016 18:57:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.ValueTuple.dll">
+      <publishTime>11/05/2016 18:57:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.ReaderWriter.dll">
+      <publishTime>11/05/2016 18:57:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XmlDocument.dll">
+      <publishTime>11/05/2016 18:57:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.dll">
+      <publishTime>11/05/2016 18:57:40</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.XDocument.dll">
+      <publishTime>11/05/2016 18:57:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>08/08/2018 12:18:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>08/08/2018 12:09:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>08/08/2018 12:18:16</publishTime>
+    </File>
+    <File Include="cate.JPG">
+      <publishTime>08/21/2023 00:12:53</publishTime>
+    </File>
+    <File Include="Cate2.JPG">
+      <publishTime>08/21/2023 00:12:53</publishTime>
+    </File>
+    <File Include="cate3.JPG">
+      <publishTime>08/21/2023 00:12:53</publishTime>
+    </File>
+    <File Include="cate4.JPG">
+      <publishTime>08/21/2023 00:12:53</publishTime>
+    </File>
+    <File Include="cate5.JPG">
+      <publishTime>08/21/2023 00:12:53</publishTime>
+    </File>
+    <File Include="cate6.JPG">
+      <publishTime>08/21/2023 00:12:53</publishTime>
+    </File>
+    <File Include="cate7.JPG">
+      <publishTime>08/21/2023 00:12:53</publishTime>
+    </File>
+    <File Include="cate8.JPG">
+      <publishTime>08/21/2023 00:12:53</publishTime>
+    </File>
+    <File Include="ContactAbout.css">
+      <publishTime>08/24/2023 01:04:26</publishTime>
+    </File>
+    <File Include="contct.png">
+      <publishTime>08/22/2023 23:36:18</publishTime>
+    </File>
+    <File Include="Footer.ascx">
+      <publishTime>08/21/2023 16:19:18</publishTime>
+    </File>
+    <File Include="FOOTERPAGE.css">
+      <publishTime>08/21/2023 21:26:06</publishTime>
+    </File>
+    <File Include="Header.ascx">
+      <publishTime>08/20/2023 23:50:45</publishTime>
+    </File>
+    <File Include="job.png">
+      <publishTime>08/23/2023 23:49:21</publishTime>
+    </File>
+    <File Include="JobRecuritor/ai.png">
+      <publishTime>09/01/2023 14:07:56</publishTime>
+    </File>
+    <File Include="JobRecuritor/apple.png">
+      <publishTime>08/29/2023 00:18:48</publishTime>
+    </File>
+    <File Include="JobRecuritor/aspdotnet.png">
+      <publishTime>09/01/2023 14:07:57</publishTime>
+    </File>
+    <File Include="JobRecuritor/backend.png">
+      <publishTime>09/01/2023 14:07:58</publishTime>
+    </File>
+    <File Include="JobRecuritor/changepasswordJobRecruiter.aspx">
+      <publishTime>09/01/2023 23:39:06</publishTime>
+    </File>
+    <File Include="JobRecuritor/cloud.png">
+      <publishTime>09/01/2023 14:08:22</publishTime>
+    </File>
+    <File Include="JobRecuritor/data.png">
+      <publishTime>08/31/2023 00:09:46</publishTime>
+    </File>
+    <File Include="JobRecuritor/datasci.png">
+      <publishTime>09/01/2023 14:06:23</publishTime>
+    </File>
+    <File Include="JobRecuritor/digital.png">
+      <publishTime>09/01/2023 14:07:58</publishTime>
+    </File>
+    <File Include="JobRecuritor/dotnet.png">
+      <publishTime>08/31/2023 00:09:46</publishTime>
+    </File>
+    <File Include="JobRecuritor/frontend.png">
+      <publishTime>09/01/2023 14:06:23</publishTime>
+    </File>
+    <File Include="JobRecuritor/fullstack.png">
+      <publishTime>09/01/2023 14:06:25</publishTime>
+    </File>
+    <File Include="JobRecuritor/HomeJobRecruiter.aspx">
+      <publishTime>09/01/2023 23:37:34</publishTime>
+    </File>
+    <File Include="JobRecuritor/java.png">
+      <publishTime>09/01/2023 14:07:59</publishTime>
+    </File>
+    <File Include="JobRecuritor/JobPostWeb.aspx">
+      <publishTime>09/01/2023 15:12:58</publishTime>
+    </File>
+    <File Include="JobRecuritor/JobRecuritor.Master">
+      <publishTime>09/01/2023 14:16:12</publishTime>
+    </File>
+    <File Include="JobRecuritor/LogoutJobrecruiter.aspx">
+      <publishTime>07/26/2023 00:18:57</publishTime>
+    </File>
+    <File Include="JobRecuritor/machine.png">
+      <publishTime>09/01/2023 14:06:25</publishTime>
+    </File>
+    <File Include="JobRecuritor/petrege.png.png">
+      <publishTime>09/01/2023 23:37:32</publishTime>
+    </File>
+    <File Include="JobRecuritor/por.jpeg">
+      <publishTime>09/01/2023 11:23:27</publishTime>
+    </File>
+    <File Include="JobRecuritor/portal.png">
+      <publishTime>09/01/2023 11:21:27</publishTime>
+    </File>
+    <File Include="JobRecuritor/portal.png.jpg">
+      <publishTime>09/01/2023 11:07:09</publishTime>
+    </File>
+    <File Include="JobRecuritor/Registration_JobRecruitor.aspx">
+      <publishTime>09/01/2023 14:21:39</publishTime>
+    </File>
+    <File Include="JobRecuritor/search2.png">
+      <publishTime>08/30/2023 23:44:20</publishTime>
+    </File>
+    <File Include="JobRecuritor/search3.png">
+      <publishTime>08/29/2023 00:03:01</publishTime>
+    </File>
+    <File Include="JobRecuritor/software.png">
+      <publishTime>08/31/2023 00:12:09</publishTime>
+    </File>
+    <File Include="JobRecuritor/STORE.PNG">
+      <publishTime>08/29/2023 00:18:48</publishTime>
+    </File>
+    <File Include="JobSeeker/about212.png">
+      <publishTime>08/24/2023 00:50:13</publishTime>
+    </File>
+    <File Include="JobSeeker/apple.png">
+      <publishTime>08/23/2023 23:43:52</publishTime>
+    </File>
+    <File Include="JobSeeker/banner.png">
+      <publishTime>08/23/2023 17:12:40</publishTime>
+    </File>
+    <File Include="JobSeeker/bansim.png">
+      <publishTime>08/23/2023 17:12:41</publishTime>
+    </File>
+    <File Include="JobSeeker/Capture.JPG">
+      <publishTime>08/21/2023 15:43:05</publishTime>
+    </File>
+    <File Include="JobSeeker/changepasswordJobSeeker.aspx">
+      <publishTime>09/01/2023 23:53:25</publishTime>
+    </File>
+    <File Include="JobSeeker/data.png">
+      <publishTime>08/23/2023 17:02:38</publishTime>
+    </File>
+    <File Include="JobSeeker/dotnet.png">
+      <publishTime>08/23/2023 16:59:45</publishTime>
+    </File>
+    <File Include="JobSeeker/fanshi.png">
+      <publishTime>08/23/2023 17:12:42</publishTime>
+    </File>
+    <File Include="JobSeeker/fashi.png">
+      <publishTime>08/23/2023 17:12:42</publishTime>
+    </File>
+    <File Include="JobSeeker/fullstack.png">
+      <publishTime>08/23/2023 17:02:38</publishTime>
+    </File>
+    <File Include="JobSeeker/goog.png">
+      <publishTime>08/24/2023 15:50:21</publishTime>
+    </File>
+    <File Include="JobSeeker/HomJobSeeker.aspx">
+      <publishTime>08/31/2023 00:05:16</publishTime>
+    </File>
+    <File Include="JobSeeker/java.png">
+      <publishTime>08/23/2023 16:57:18</publishTime>
+    </File>
+    <File Include="JobSeeker/job.png">
+      <publishTime>08/23/2023 23:50:19</publishTime>
+    </File>
+    <File Include="JobSeeker/JobPostList.aspx">
+      <publishTime>08/26/2023 16:39:47</publishTime>
+    </File>
+    <File Include="JobSeeker/JobSeeker.Master">
+      <publishTime>09/01/2023 22:40:41</publishTime>
+    </File>
+    <File Include="JobSeeker/logoutJobSeeker.aspx">
+      <publishTime>07/25/2023 23:42:06</publishTime>
+    </File>
+    <File Include="JobSeeker/lookingjob.png">
+      <publishTime>08/25/2023 15:07:03</publishTime>
+    </File>
+    <File Include="JobSeeker/lookingjob1.png">
+      <publishTime>08/25/2023 15:15:44</publishTime>
+    </File>
+    <File Include="JobSeeker/master.png.png">
+      <publishTime>08/24/2023 15:50:21</publishTime>
+    </File>
+    <File Include="JobSeeker/mens.jpg">
+      <publishTime>08/21/2023 15:38:39</publishTime>
+    </File>
+    <File Include="JobSeeker/petrege.png.png">
+      <publishTime>09/01/2023 23:45:26</publishTime>
+    </File>
+    <File Include="JobSeeker/Registration_JobSeeker.aspx">
+      <publishTime>08/29/2023 00:11:05</publishTime>
+    </File>
+    <File Include="JobSeeker/search.png">
+      <publishTime>08/24/2023 00:28:31</publishTime>
+    </File>
+    <File Include="JobSeeker/search2.png">
+      <publishTime>08/24/2023 00:58:00</publishTime>
+    </File>
+    <File Include="JobSeeker/software.png">
+      <publishTime>08/23/2023 17:04:18</publishTime>
+    </File>
+    <File Include="JobSeeker/STORE.PNG">
+      <publishTime>08/23/2023 23:43:25</publishTime>
+    </File>
+    <File Include="JobSeeker/woman.jpg">
+      <publishTime>08/21/2023 15:36:51</publishTime>
+    </File>
+    <File Include="jquery.js">
+      <publishTime>07/19/2023 23:23:34</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>09/01/2023 14:20:15</publishTime>
+    </File>
+    <File Include="MAINPAGE.css">
+      <publishTime>08/26/2023 13:14:58</publishTime>
+    </File>
+    <File Include="MAIN_PAGE.aspx">
+      <publishTime>08/26/2023 13:07:52</publishTime>
+    </File>
+    <File Include="Master_Page.Master">
+      <publishTime>08/24/2023 15:21:46</publishTime>
+    </File>
+    <File Include="menu.css">
+      <publishTime>07/26/2023 14:51:06</publishTime>
+    </File>
+    <File Include="menu.js">
+      <publishTime>07/19/2023 23:23:34</publishTime>
+    </File>
+    <File Include="navbar.css">
+      <publishTime>08/21/2023 00:13:18</publishTime>
+    </File>
+    <File Include="ncopy.png">
+      <publishTime>08/21/2023 00:12:53</publishTime>
+    </File>
+    <File Include="play.png">
+      <publishTime>08/21/2023 21:19:21</publishTime>
+    </File>
+    <File Include="search2.png">
+      <publishTime>08/24/2023 00:54:21</publishTime>
+    </File>
+    <File Include="STORE.PNG">
+      <publishTime>08/21/2023 21:28:17</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/28/2023 00:43:43</publishTime>
+    </File>
+    <File Include="woman.jpg">
+      <publishTime>08/21/2023 00:12:53</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

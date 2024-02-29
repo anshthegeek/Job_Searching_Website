@@ -1,0 +1,136 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="JobSeeker.master.cs" Inherits="Master_Page_loginRegister.JobSeeker.JobSeeker" %>
+<%@ Register Src="~/Header.ascx" TagName="myheader" TagPrefix="aaa" %>
+<%@ Register Src="~/Footer.ascx" TagName="myfoot" TagPrefix="aaa" %>
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <script src="../jquery.js"></script>
+    <link href="../menu.css" rel="stylesheet" />
+    <script src="../menu.js"></script>
+    <link href="../navbar.css" rel="stylesheet" />
+    <link href="../FOOTERPAGE.css" rel="stylesheet" />
+    <link href="../MAINPAGE.css" rel="stylesheet" />
+
+
+
+
+        <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<link rel="stylesheet" href="chatjob.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+
+
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            
+        <table>
+  
+
+
+
+
+
+
+
+             <tr>
+                <td>
+                    <center><asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+            </asp:ContentPlaceHolder>
+                        </center></td>
+            </tr>
+
+                 
+        </table>
+
+        </div>
+
+
+
+
+
+
+
+        <div style="background-color:#f9f9f9"> 
+
+            <footer class="section=p1" style="display:flex;position:relative;left:173px;top:112px">
+        <div class="col" id="ab2">
+                    <a class="navbar-brand" href="#" style="font-size:3rem">Job Finder</a>
+         <h4>Contact</h4>
+         <a href="#"><strong>Address:</strong> 562 Committee Chowk,Uttar Pradesh, India</a>
+        <!-- <a href="#"><strong>Address:</strong> 562 Wellington Road, Street 32, San Francisco</a> -->
+         <a href="#"><strong>Phone:</strong> +01 2222 365 /(+91) 01 2345 6789</a>
+         <a href="#"><strong>Hours:</strong>10:00 - 18:00, Mon - Sat</a>
+         <div class="follow">
+           <h4>Follow us</h4>
+           <div class="icon">
+       <i class="fab fa-facebook-f"></i>
+       <i class="fab fa-twitter"></i>
+       <i class="fab fa-instagram"></i>
+       <i class="fab fa-pinterest-p"></i>
+       <i class="fab fa-youtube"></i>
+ 
+           </div>
+         </div>
+        </div>
+ 
+        <div class="col about" id="ab3">
+         <h4>About</h4>
+         <a href="#">About Us</a>
+         <a href="#">Delivery Information</a>
+         <a href="#">Privacy Policy</a>
+         <a href="#">Terms &  Conditions</a>
+         <a href="#">Contact Us</a>
+ 
+ 
+        </div>
+ 
+        <div class="col account" id="ab4">
+         <h4>My Account</h4>
+         <a href="#">Sign In</a>
+         <a href="#">View Cart</a>
+         <a href="#">My Wishlist</a>
+         <a href="#">Track My Order</a>
+         <a href="#">Help</a>
+        
+        </div>
+ 
+        <div class="col install" id="ab5" style="position:relative;left:-123px">
+         <h4>Install App</h4>
+         <a href="#"> From App Store or Google Play</a>
+         <div class="row">
+           <img src="apple.png" alt="" id="apple">
+           <img src="STORE.PNG" alt="">
+         </div>
+         <a href="#">Secured Payments Gateways</a>
+        <div class="images"> 
+         <img src="vis.png.svg" alt="" class="paymt">
+         <img src="pay.png" alt="" class="paymt"> 
+         <img src="master.png.png" alt="" class="paymt">
+         <img src="goog.png" alt="" class="paymt">
+        </div>
+       </div>
+ 
+       <div class="copyright">
+          <a hreff="#"> @ 2021, Tech2 etc - HTML CSS Ecommerce Template</a>
+       </div>
+ 
+     </footer>
+
+
+
+
+</div>
+
+    </form>
+</body>
+</html>

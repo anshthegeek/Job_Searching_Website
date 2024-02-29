@@ -1,0 +1,60 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master_Page.master.cs" Inherits="Master_Page_loginRegister.Master_Page" %>
+<%@ Register Src="~/Header.ascx" TagName="myheader" TagPrefix="aaa" %>
+<%@ Register Src="~/Footer.ascx" TagName="myfoot" TagPrefix="aaa" %>
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <link href="menu.css" rel="stylesheet" />
+    <script src="menu.js"></script>
+    <script src="jquery.js"></script>
+    <link href="navbar.css" rel="stylesheet" />
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <link href="MAINPAGE.css" rel="stylesheet" />
+    
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+
+
+        <table>
+           <section id="header" class="header1">
+                                   <a class="navbar-brand" href="#" style="font-size:3rem">Job Finder</a>
+
+        <div>
+            <ul id="navbar" class="navv"  style="position:relative; left:-13px">
+              
+                <li class="last"><a href="../Login.aspx" class="active" style="font-size:4rem">Login</a></li>
+            </ul>
+        </div>
+
+             </section>
+
+
+
+
+       
+
+
+             <tr>                 <td>
+                    <center><asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+            </asp:ContentPlaceHolder>
+                        </center></td>
+            </tr>
+  
+        </table>
+            </div>
+        
+
+    </form>
+    
+</body>
+</html>
